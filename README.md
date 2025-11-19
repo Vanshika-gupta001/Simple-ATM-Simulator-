@@ -1,2 +1,70 @@
-# Simple-ATM-Simulator-
-Simple ATM Simulator built using Python as part of my Week 1 internship task at Axcentra. This project includes PIN-based login, balance check, deposit, withdrawal, fast cash, mini statement, last transaction, and PIN change features. Built to practice loops, conditionals, and modular programming.
+🏦 ATM Simulator (Python)
+
+Axcentra Internship – Week 1 Project
+
+A simple and modular ATM Simulator developed as part of my Week 1 internship task at Axcentra.
+This project focuses on building a clean, menu-driven application using Python while practicing foundational programming concepts.
+
+⭐ Features
+
+🔐 PIN-based login system
+
+💰 Check Balance
+
+➕ Deposit Money
+
+➖ Withdraw Money
+
+⚡ Fast Cash (₹500 / ₹1000 / ₹2000)
+
+🧾 Mini Statement (last 5 transactions)
+
+🔄 Last Transaction
+
+🔑 PIN Change Option
+
+👤 Account Details Section
+
+🧩 Function-based Modular Code Structure
+
+📂 Project Structure
+ATM-Simulator/
+│
+├── atm.py          # Main program file
+├── README.md       # Documentation
+└── images/         # Program screenshots
+
+📸 Screenshots
+
+Add your screenshots inside the images/ folder.
+
+Example:
+
+### 🔐 Login Screen
+![Login](images/login.png)
+
+### 🏦 ATM Menu
+![Menu](images/menu.png)
+
+### 💬 Sample Output
+![Output](images/output.png)
+
+🎯 Learning Outcomes
+
+Writing menu-driven applications
+
+Using loops & conditional logic effectively
+
+Creating modular programs using functions
+
+Handling user inputs
+
+Simulating real-world logic (ATM operations)
+
+🏢 Internship Information
+
+This project is part of my Week 1 assignment during my internship at Axcentra, created to practice Python fundamentals and problem-solving skills.
+
+⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub!
