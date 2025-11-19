@@ -1,11 +1,11 @@
-🏦 ATM Simulator (Python)
+**🏦 ATM Simulator (Python)**
 
-Axcentra Internship – Week 1 Project
+**Axcentra Internship – Week 1 Project**
 
 A simple and modular ATM Simulator developed as part of my Week 1 internship task at Axcentra.
 This project focuses on building a clean, menu-driven application using Python while practicing foundational programming concepts.
 
-⭐ Features
+**⭐ Features**
 
 🔐 PIN-based login system
 
@@ -27,29 +27,25 @@ This project focuses on building a clean, menu-driven application using Python w
 
 🧩 Function-based Modular Code Structure
 
-📂 Project Structure
+📂 **Project Structure**
 ATM-Simulator/
 │
 ├── atm.py          # Main program file
 ├── README.md       # Documentation
 └── images/         # Program screenshots
 
-📸 Screenshots
-
-Add your screenshots inside the images/ folder.
-
-Example:
+**📸 Screenshots**
 
 ### 🔐 Login Screen
-![Login](images/login.png)
+![Login](images/login.jpg)
 
 ### 🏦 ATM Menu
-![Menu](images/menu.png)
+![deposite & withdraw](images/deposite & withdraw.jpg)
 
 ### 💬 Sample Output
-![Output](images/output.png)
+![Output](images/mini state.jpg)
 
-🎯 Learning Outcomes
+🎯 **Learning Outcomes**
 
 Writing menu-driven applications
 
@@ -61,10 +57,10 @@ Handling user inputs
 
 Simulating real-world logic (ATM operations)
 
-🏢 Internship Information
+🏢**Internship Information**
 
-This project is part of my Week 1 assignment during my internship at Axcentra, created to practice Python fundamentals and problem-solving skills.
+This project is part of my **Week 1 assignment** during my internship at **Axcentra**, created to practice Python fundamentals and problem-solving skills.
 
-⭐ Support
+⭐ **Support**
 
 If you like this project, please consider giving it a ⭐ on GitHub!
