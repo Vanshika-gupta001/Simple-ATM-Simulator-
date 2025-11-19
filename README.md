@@ -40,10 +40,10 @@ ATM-Simulator/
 ![Login](images/login.jpg)
 
 ### 🏦 ATM Menu
-![deposite & withdraw](images/deposite & withdraw.jpg)
+![deposite & withdraw](images/deposite.jpg)
 
 ### 💬 Sample Output
-![Output](images/mini state.jpg)
+![Output](images/ministate.jpg)
 
 🎯 **Learning Outcomes**
 
